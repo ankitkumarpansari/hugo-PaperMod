@@ -63,10 +63,11 @@ body:not(.dark) #sun {
 
 #menu a {
     font-size: 16px;
+    font-weight:600;
 }
 
 #menu .active {
-    font-weight: 500;
+    font-weight: 800;
     border-bottom: 2px solid currentColor;
 }
 

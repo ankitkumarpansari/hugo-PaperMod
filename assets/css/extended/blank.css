@@ -1,5 +1,15 @@
-/*
-This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
-
-Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
-*/
+/* Reduce size of main content text */
+.post-content {
+    font-size: 0.9rem;
+  }
+  
+  /* Reduce size of post titles on list pages */
+  .post-title {
+    font-size: 1.5rem;
+  }
+  
+  /* Reduce size of homepage info text */
+  .home-info .entry-content {
+    font-size: 0.9rem;
+  }
+  
